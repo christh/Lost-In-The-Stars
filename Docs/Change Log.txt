@@ -1,0 +1,4 @@
+2022-05-27 Cleanup unused stuff (2h)
+2022-05-28 Gun emplacements (3h), barriers and generators (2h), upgrades / buttons (1h)
+2022-05-29 Health (1h), Upgrade systems (1h), Boss (1h), end level trap (1h), enemy targeting (1h), player death (1h), level progression (1h)
+2022-05-30 Music (2h), levels (3h), Win screen and final boss (2h), cleanup (3h)

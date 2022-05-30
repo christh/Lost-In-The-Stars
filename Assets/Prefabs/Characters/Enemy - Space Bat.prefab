@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7414499657855265341
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8076940619354157902, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Radius
+      value: 13.85
+      objectReference: {fileID: 0}
+    - target: {fileID: -2788173332133112186, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: thrust
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -2788173332133112186, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: maxThrust
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: -2788173332133112186, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: maxTorque
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1872985675275763803, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: MineralCount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409616, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409617, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Mass
+      value: 2.460751
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409618, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy - Space Bat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409623, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409623, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409623, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788259876324409623, guid: 0e264a5fd96416441b2fe1406cc4d962,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0e264a5fd96416441b2fe1406cc4d962, type: 3}

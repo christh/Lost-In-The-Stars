@@ -1,0 +1,20 @@
+Sprites:
+Kenney - for most of the assets
+Vesselforge for customised Kenney stuff
+https://opengameart.org/content/sci-fi-effects by Scorpio
+2k_mercury.jpg - planet texture: https://www.solarsystemscope.com/textures/
+2015 Cruiser Bold font - http://www.pixelsagas.com
+
+Fire & Explosion effects:
+https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777#description
+"Tower Defence Basic Towers" by Nido licensed CC0: https://opengameart.org/node/114170
+"barrier - sprite sheet" by gfroad licensed CC0: https://opengameart.org/content/barrier-sprite-sheet
+
+Music:
+Space Ambience & Chronos by Alexander Nakarada: https://freepd.com/electronic.php
+Goodnightmare by Kevin MacLeod: https://freepd.com/electronic.php
+Think About it & Go On Without Me by Bryan Teoh: https://freepd.com/epic.php
+
+Backgrounds:
+https://opengameart.org/content/vortex-background by darkrose
+https://opengameart.org/content/weg-art-background-space by vladart

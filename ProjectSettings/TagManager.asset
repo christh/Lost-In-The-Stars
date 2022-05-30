@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Pickup
+  - Bullets
+  - Confiner
+  - Environment
+  - GuiClickable
+  - FxTemporaire
+  - Friendly Planet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ignore Enemy Bullets
+  - Player Interactibles
+  - Pickups
+  - Confiner
+  - PlayerBullets
+  - EnemyBullets
+  - Enemies
+  - Players
+  - Explosions
+  - Environment
+  - Background 1
+  - PostProcessing
+  - Turrets
+  - DeadThings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 2
+    uniqueID: 3898091027
+    locked: 0
+  - name: Background 1
+    uniqueID: 3746187937
+    locked: 0
+  - name: Particles
+    uniqueID: 1968840829
+    locked: 0
+  - name: Foreground
+    uniqueID: 704419929
+    locked: 0
+  - name: Player
+    uniqueID: 2847432625
+    locked: 0
+  - name: Pickups
+    uniqueID: 990040483
+    locked: 0
+  - name: Overhead Things
+    uniqueID: 1969590693
+    locked: 0
+  - name: UI
+    uniqueID: 7168825
+    locked: 0

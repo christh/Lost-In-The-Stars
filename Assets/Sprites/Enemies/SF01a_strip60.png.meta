@@ -1,0 +1,1802 @@
+fileFormatVersion: 2
+guid: 12823bf5425c74f44ab6b42010a25af9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5953921638508998380
+    second: SF01a_strip60_0
+  - first:
+      213: 2368631594609981733
+    second: SF01a_strip60_1
+  - first:
+      213: 2826526608068765014
+    second: SF01a_strip60_2
+  - first:
+      213: -2814977975287697192
+    second: SF01a_strip60_3
+  - first:
+      213: -7085150023336595010
+    second: SF01a_strip60_4
+  - first:
+      213: -9168924416069829452
+    second: SF01a_strip60_5
+  - first:
+      213: 8925456200779416281
+    second: SF01a_strip60_6
+  - first:
+      213: -992170261047469173
+    second: SF01a_strip60_7
+  - first:
+      213: 31157674529597305
+    second: SF01a_strip60_8
+  - first:
+      213: 6028735679971465285
+    second: SF01a_strip60_9
+  - first:
+      213: -2283514648927301259
+    second: SF01a_strip60_10
+  - first:
+      213: 8576522344765356263
+    second: SF01a_strip60_11
+  - first:
+      213: -1355422189073747163
+    second: SF01a_strip60_12
+  - first:
+      213: 8533976822803795185
+    second: SF01a_strip60_13
+  - first:
+      213: -1013712009763706353
+    second: SF01a_strip60_14
+  - first:
+      213: 5863442346315547021
+    second: SF01a_strip60_15
+  - first:
+      213: -3861220539439608067
+    second: SF01a_strip60_16
+  - first:
+      213: 8923035455532087166
+    second: SF01a_strip60_17
+  - first:
+      213: -8744437931997736733
+    second: SF01a_strip60_18
+  - first:
+      213: 780490007348918029
+    second: SF01a_strip60_19
+  - first:
+      213: 1587634864599597931
+    second: SF01a_strip60_20
+  - first:
+      213: 8597480425857653409
+    second: SF01a_strip60_21
+  - first:
+      213: 913652477609534490
+    second: SF01a_strip60_22
+  - first:
+      213: -7670362236809859477
+    second: SF01a_strip60_23
+  - first:
+      213: 1635573951233622149
+    second: SF01a_strip60_24
+  - first:
+      213: 4519858094963474820
+    second: SF01a_strip60_25
+  - first:
+      213: 7754640807001535539
+    second: SF01a_strip60_26
+  - first:
+      213: 7014640317868590859
+    second: SF01a_strip60_27
+  - first:
+      213: -5944028615075706376
+    second: SF01a_strip60_28
+  - first:
+      213: -6376650887074084575
+    second: SF01a_strip60_29
+  - first:
+      213: -2749731748889973305
+    second: SF01a_strip60_30
+  - first:
+      213: 1926534249117381275
+    second: SF01a_strip60_31
+  - first:
+      213: -5075378913027115410
+    second: SF01a_strip60_32
+  - first:
+      213: -3594943691854945826
+    second: SF01a_strip60_33
+  - first:
+      213: 7727370504077504246
+    second: SF01a_strip60_34
+  - first:
+      213: -4283380623233420127
+    second: SF01a_strip60_35
+  - first:
+      213: -7399966174464222375
+    second: SF01a_strip60_36
+  - first:
+      213: 9194870583721862375
+    second: SF01a_strip60_37
+  - first:
+      213: -4395976548094262382
+    second: SF01a_strip60_38
+  - first:
+      213: 6913828284727988262
+    second: SF01a_strip60_39
+  - first:
+      213: -6698791562291538480
+    second: SF01a_strip60_40
+  - first:
+      213: 594728239173692710
+    second: SF01a_strip60_41
+  - first:
+      213: 7323937354877443145
+    second: SF01a_strip60_42
+  - first:
+      213: 7845147369258323582
+    second: SF01a_strip60_43
+  - first:
+      213: -4136954711961185186
+    second: SF01a_strip60_44
+  - first:
+      213: -5135376720987111102
+    second: SF01a_strip60_45
+  - first:
+      213: 5638018838246716438
+    second: SF01a_strip60_46
+  - first:
+      213: -4149647209306984804
+    second: SF01a_strip60_47
+  - first:
+      213: -4773449458219151820
+    second: SF01a_strip60_48
+  - first:
+      213: -6603703418404675063
+    second: SF01a_strip60_49
+  - first:
+      213: 4399463270658410746
+    second: SF01a_strip60_50
+  - first:
+      213: -3930638691608318445
+    second: SF01a_strip60_51
+  - first:
+      213: -7017526118881031118
+    second: SF01a_strip60_52
+  - first:
+      213: -4026048583995659068
+    second: SF01a_strip60_53
+  - first:
+      213: -5504594264302658012
+    second: SF01a_strip60_54
+  - first:
+      213: -2133300106742849013
+    second: SF01a_strip60_55
+  - first:
+      213: -5529501806010146195
+    second: SF01a_strip60_56
+  - first:
+      213: -6366668563142958831
+    second: SF01a_strip60_57
+  - first:
+      213: -2120388238545897665
+    second: SF01a_strip60_58
+  - first:
+      213: -5398566930549800675
+    second: SF01a_strip60_59
+  - first:
+      213: 2845600725105270532
+    second: SF01a_strip60_0
+  - first:
+      213: -9117970037051364502
+    second: SF01a_strip60_1
+  - first:
+      213: 4686977875115293303
+    second: SF01a_strip60_2
+  - first:
+      213: -622528274891900304
+    second: SF01a_strip60_3
+  - first:
+      213: 4488629785282918875
+    second: SF01a_strip60_4
+  - first:
+      213: 8458423739219114095
+    second: SF01a_strip60_5
+  - first:
+      213: 2205366171144923994
+    second: SF01a_strip60_6
+  - first:
+      213: 7070410389516717407
+    second: SF01a_strip60_7
+  - first:
+      213: 150263327583195253
+    second: SF01a_strip60_8
+  - first:
+      213: -3770963824137362605
+    second: SF01a_strip60_9
+  - first:
+      213: 5437305928060112523
+    second: SF01a_strip60_10
+  - first:
+      213: 3775450315085161287
+    second: SF01a_strip60_11
+  - first:
+      213: -8409455395042977679
+    second: SF01a_strip60_12
+  - first:
+      213: 3087837559796093340
+    second: SF01a_strip60_13
+  - first:
+      213: -4001261223393771242
+    second: SF01a_strip60_14
+  - first:
+      213: -8082928838155121384
+    second: SF01a_strip60_15
+  - first:
+      213: -1491009202127563870
+    second: SF01a_strip60_16
+  - first:
+      213: -4101764099620182656
+    second: SF01a_strip60_17
+  - first:
+      213: 3762274894906313575
+    second: SF01a_strip60_18
+  - first:
+      213: -4525218840307295879
+    second: SF01a_strip60_19
+  - first:
+      213: -48129042908940195
+    second: SF01a_strip60_20
+  - first:
+      213: -4593945875044962498
+    second: SF01a_strip60_21
+  - first:
+      213: -8983547850682854780
+    second: SF01a_strip60_22
+  - first:
+      213: -2724126901141134875
+    second: SF01a_strip60_23
+  - first:
+      213: -5562901829317945025
+    second: SF01a_strip60_24
+  - first:
+      213: -8628150540461764299
+    second: SF01a_strip60_25
+  - first:
+      213: -5224500242472066707
+    second: SF01a_strip60_26
+  - first:
+      213: -3044465655652377327
+    second: SF01a_strip60_27
+  - first:
+      213: -4274362083751246771
+    second: SF01a_strip60_28
+  - first:
+      213: 1817801435127727175
+    second: SF01a_strip60_29
+  - first:
+      213: -7865181935024564253
+    second: SF01a_strip60_30
+  - first:
+      213: -4730015241918551382
+    second: SF01a_strip60_31
+  - first:
+      213: -156438847867561288
+    second: SF01a_strip60_32
+  - first:
+      213: -4735415791918230575
+    second: SF01a_strip60_33
+  - first:
+      213: -7156543806030780563
+    second: SF01a_strip60_34
+  - first:
+      213: 2650554895819214531
+    second: SF01a_strip60_35
+  - first:
+      213: -997722918397626451
+    second: SF01a_strip60_36
+  - first:
+      213: -1886870852628800776
+    second: SF01a_strip60_37
+  - first:
+      213: 7548939910756717228
+    second: SF01a_strip60_38
+  - first:
+      213: -5700241658013513198
+    second: SF01a_strip60_39
+  - first:
+      213: 2971309642899738970
+    second: SF01a_strip60_40
+  - first:
+      213: -3311280895136240086
+    second: SF01a_strip60_41
+  - first:
+      213: 6324575688630600264
+    second: SF01a_strip60_42
+  - first:
+      213: -3599991603976360332
+    second: SF01a_strip60_43
+  - first:
+      213: 2023943017440430632
+    second: SF01a_strip60_44
+  - first:
+      213: 2565087344551810377
+    second: SF01a_strip60_45
+  - first:
+      213: -3337935498724799723
+    second: SF01a_strip60_46
+  - first:
+      213: -8324126681360914047
+    second: SF01a_strip60_47
+  - first:
+      213: 4703842202446033443
+    second: SF01a_strip60_48
+  - first:
+      213: -2642957336589526836
+    second: SF01a_strip60_49
+  - first:
+      213: -7453796582758998849
+    second: SF01a_strip60_50
+  - first:
+      213: -6786260905096219808
+    second: SF01a_strip60_51
+  - first:
+      213: 8753786635427453771
+    second: SF01a_strip60_52
+  - first:
+      213: 4526470972255070046
+    second: SF01a_strip60_53
+  - first:
+      213: -3458355196164324109
+    second: SF01a_strip60_54
+  - first:
+      213: -2417778558598906432
+    second: SF01a_strip60_55
+  - first:
+      213: 2137915207867389015
+    second: SF01a_strip60_56
+  - first:
+      213: -733303722094468350
+    second: SF01a_strip60_57
+  - first:
+      213: -2129034118229293476
+    second: SF01a_strip60_58
+  - first:
+      213: -5438421671194273961
+    second: SF01a_strip60_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SF01a_strip60_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 187
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5e7868ca9d7720800000000000000
+      internalID: 5953921638508998380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 187
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be5e47f86767180800000000000000
+      internalID: 2368631594609981733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 60
+        width: 187
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abc547b8d7b0140800000000000000
+      internalID: 2826526608068765014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 53
+        width: 187
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a7e6015d55c57f0800000000000000
+      internalID: -2814977975287697192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_4
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 53
+        width: 173
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b6080201da4e30800000000000000
+      internalID: -7085150023336595010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_5
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 53
+        width: 173
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68f2ef739b526570800000000000000
+      internalID: -9168924416069829452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 45
+        width: 157
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba1ce19d80b9e10800000000000000
+      internalID: 8925456200779416281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_7
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 45
+        width: 143
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0063e9c42f1260800000000000000
+      internalID: -992170261047469173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_8
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 38
+        width: 120
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705d5743b7d51200800000000000000
+      internalID: 31157674529597305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_9
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 38
+        width: 98
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a171a168daabc0800000000000000
+      internalID: 6028735679971465285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_10
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 38
+        width: 90
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0629fee0357b40800000000000000
+      internalID: -2283514648927301259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_11
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 38
+        width: 83
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a9c1fe08156430800000000000000
+      internalID: 8576522344765356263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_12
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 38
+        width: 75
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17898f79fdc9b4b80800000000000000
+      internalID: -1355422189073747163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_13
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 38
+        width: 68
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9151cb86e33ada20800000000000000
+      internalID: 8533976822803795185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_14
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 38
+        width: 60
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c11eed1aa878c0800000000000000
+      internalID: -1013712009763706353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_15
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 38
+        width: 68
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc0010c0ba3df80800000000000000
+      internalID: 5863442346315547021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_16
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 38
+        width: 83
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a31956c70fde4be0800000000000000
+      internalID: -3861220539439608067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_17
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 38
+        width: 97
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08560b1984b9317c0800000000000000
+      internalID: 8923035455532087166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_18
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 38
+        width: 112
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc2426519463430800000000000000
+      internalID: -8744437931997736733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_19
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 45
+        width: 120
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979149cb0713331c0800000000000000
+      internalID: 780490007348918029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_20
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 45
+        width: 135
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587806f3e2055ff0800000000000000
+      internalID: 1587634864599597931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_21
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 45
+        width: 143
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fe29001960f30c0800000000000000
+      internalID: 8597480425857653409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_22
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 53
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4821351a3d6045380800000000000000
+      internalID: 913652477609534490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_23
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 53
+        width: 157
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a5663405f13ad0800000000000000
+      internalID: -7670362236809859477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_24
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 53
+        width: 165
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39122f724a9cc2b0800000000000000
+      internalID: 1635573951233622149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_25
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319e2f1cc6a24880800000000000000
+      internalID: 4519858094963474820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_26
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a286c5b8de77b0800000000000000
+      internalID: 7754640807001535539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_27
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d96ffcd92efb5d0800000000000000
+      internalID: 7014640317868590859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_28
+      rect:
+        serializedVersion: 2
+        x: 7207
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44cb94d45a6ea4c0800000000000000
+      internalID: -5944028615075706376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_29
+      rect:
+        serializedVersion: 2
+        x: 7462
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cbfc26c02a3910800000000000000
+      internalID: -6376650887074084575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_30
+      rect:
+        serializedVersion: 2
+        x: 7717
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79a0d93b249d290800000000000000
+      internalID: -2749731748889973305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_31
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 53
+        width: 187
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae24bb23c9b5eb0800000000000000
+      internalID: 1926534249117381275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_32
+      rect:
+        serializedVersion: 2
+        x: 8220
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba58cb52b734ddf0800000000000000
+      internalID: -5075378913027115410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_33
+      rect:
+        serializedVersion: 2
+        x: 8475
+        y: 53
+        width: 172
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d350f23d6c684eb0800000000000000
+      internalID: -3594943691854945826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_34
+      rect:
+        serializedVersion: 2
+        x: 8737
+        y: 53
+        width: 165
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67630e4359deac90800000000000000
+      internalID: 7727370504077504246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_35
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 53
+        width: 165
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce0afe62a9a8c420800000000000000
+      internalID: -4283380623233420127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_36
+      rect:
+        serializedVersion: 2
+        x: 9255
+        y: 53
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b4a8ba406722f0800000000000000
+      internalID: -7399966174464222375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_37
+      rect:
+        serializedVersion: 2
+        x: 9510
+        y: 45
+        width: 142
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9504e4fc70d5e0800000000000000
+      internalID: 9194870583721862375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_38
+      rect:
+        serializedVersion: 2
+        x: 9772
+        y: 45
+        width: 135
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca25c635ad833c860800000000000000
+      internalID: -4395976548094262382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_39
+      rect:
+        serializedVersion: 2
+        x: 10035
+        y: 45
+        width: 120
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8838c96ca4e0b0800000000000000
+      internalID: 6913828284727988262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_40
+      rect:
+        serializedVersion: 2
+        x: 10297
+        y: 38
+        width: 113
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515bb6a0663c3920800000000000000
+      internalID: -6698791562291538480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_41
+      rect:
+        serializedVersion: 2
+        x: 10560
+        y: 38
+        width: 105
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eedddd197fb02d0800000000000000
+      internalID: 594728239173692710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_42
+      rect:
+        serializedVersion: 2
+        x: 10830
+        y: 38
+        width: 82
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84206eb641865c750800000000000000
+      internalID: 7323937354877443145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_43
+      rect:
+        serializedVersion: 2
+        x: 11092
+        y: 38
+        width: 75
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ea992b5b24a0ec0800000000000000
+      internalID: 7845147369258323582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_44
+      rect:
+        serializedVersion: 2
+        x: 11355
+        y: 38
+        width: 60
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4b28737d761c10800000000000000
+      internalID: -4136954711961185186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_45
+      rect:
+        serializedVersion: 2
+        x: 11610
+        y: 38
+        width: 67
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455cd57955099320800000000000000
+      internalID: -5135376720987111102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_46
+      rect:
+        serializedVersion: 2
+        x: 11865
+        y: 38
+        width: 75
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b875b59554da1d0800000000000000
+      internalID: 5638018838246716438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_47
+      rect:
+        serializedVersion: 2
+        x: 12120
+        y: 38
+        width: 75
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a12ce2e2ca7c80800000000000000
+      internalID: -4149647209306984804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_48
+      rect:
+        serializedVersion: 2
+        x: 12375
+        y: 38
+        width: 82
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227944af87674140800000000000000
+      internalID: -4773449458219151820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_49
+      rect:
+        serializedVersion: 2
+        x: 12630
+        y: 38
+        width: 90
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8911c2e44525bd0800000000000000
+      internalID: -6603703418404675063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_50
+      rect:
+        serializedVersion: 2
+        x: 12885
+        y: 38
+        width: 97
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc11a8ff7bce8890800000000000000
+      internalID: 4399463270658410746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_51
+      rect:
+        serializedVersion: 2
+        x: 13140
+        y: 38
+        width: 105
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637e9679ab52d1a0800000000000000
+      internalID: -3930638691608318445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_52
+      rect:
+        serializedVersion: 2
+        x: 13380
+        y: 45
+        width: 135
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b173cb092bb7970800000000000000
+      internalID: -7017526118881031118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_53
+      rect:
+        serializedVersion: 2
+        x: 13635
+        y: 45
+        width: 142
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576163fd5141de30800000000000000
+      internalID: -4026048583995659068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_54
+      rect:
+        serializedVersion: 2
+        x: 13882
+        y: 45
+        width: 158
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4cf71b5447100d0800000000000000
+      internalID: -5504594264302658012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_55
+      rect:
+        serializedVersion: 2
+        x: 14137
+        y: 45
+        width: 165
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf72df533527ed0800000000000000
+      internalID: -2133300106742849013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_56
+      rect:
+        serializedVersion: 2
+        x: 14385
+        y: 53
+        width: 180
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75457dced866bad10800000000000000
+      internalID: -5529501806010146195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_57
+      rect:
+        serializedVersion: 2
+        x: 14632
+        y: 53
+        width: 188
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20366146628c2d5f0800000000000000
+      internalID: -6366668563142958831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_58
+      rect:
+        serializedVersion: 2
+        x: 14887
+        y: 60
+        width: 188
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c568144efb62472e0800000000000000
+      internalID: -2120388238545897665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SF01a_strip60_59
+      rect:
+        serializedVersion: 2
+        x: 15142
+        y: 60
+        width: 188
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5251277, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757dda5dd48d684b0800000000000000
+      internalID: -5398566930549800675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SF01a_strip60_18: -8744437931997736733
+      SF01a_strip60_2: 2826526608068765014
+      SF01a_strip60_46: 5638018838246716438
+      SF01a_strip60_8: 31157674529597305
+      SF01a_strip60_1: 2368631594609981733
+      SF01a_strip60_45: -5135376720987111102
+      SF01a_strip60_23: -7670362236809859477
+      SF01a_strip60_52: -7017526118881031118
+      SF01a_strip60_27: 7014640317868590859
+      SF01a_strip60_6: 8925456200779416281
+      SF01a_strip60_20: 1587634864599597931
+      SF01a_strip60_12: -1355422189073747163
+      SF01a_strip60_22: 913652477609534490
+      SF01a_strip60_9: 6028735679971465285
+      SF01a_strip60_3: -2814977975287697192
+      SF01a_strip60_36: -7399966174464222375
+      SF01a_strip60_28: -5944028615075706376
+      SF01a_strip60_16: -3861220539439608067
+      SF01a_strip60_51: -3930638691608318445
+      SF01a_strip60_17: 8923035455532087166
+      SF01a_strip60_55: -2133300106742849013
+      SF01a_strip60_59: -5398566930549800675
+      SF01a_strip60_15: 5863442346315547021
+      SF01a_strip60_26: 7754640807001535539
+      SF01a_strip60_35: -4283380623233420127
+      SF01a_strip60_56: -5529501806010146195
+      SF01a_strip60_25: 4519858094963474820
+      SF01a_strip60_48: -4773449458219151820
+      SF01a_strip60_4: -7085150023336595010
+      SF01a_strip60_53: -4026048583995659068
+      SF01a_strip60_49: -6603703418404675063
+      SF01a_strip60_32: -5075378913027115410
+      SF01a_strip60_41: 594728239173692710
+      SF01a_strip60_57: -6366668563142958831
+      SF01a_strip60_38: -4395976548094262382
+      SF01a_strip60_39: 6913828284727988262
+      SF01a_strip60_19: 780490007348918029
+      SF01a_strip60_40: -6698791562291538480
+      SF01a_strip60_47: -4149647209306984804
+      SF01a_strip60_33: -3594943691854945826
+      SF01a_strip60_44: -4136954711961185186
+      SF01a_strip60_43: 7845147369258323582
+      SF01a_strip60_5: -9168924416069829452
+      SF01a_strip60_30: -2749731748889973305
+      SF01a_strip60_0: 5953921638508998380
+      SF01a_strip60_58: -2120388238545897665
+      SF01a_strip60_7: -992170261047469173
+      SF01a_strip60_29: -6376650887074084575
+      SF01a_strip60_24: 1635573951233622149
+      SF01a_strip60_10: -2283514648927301259
+      SF01a_strip60_42: 7323937354877443145
+      SF01a_strip60_13: 8533976822803795185
+      SF01a_strip60_54: -5504594264302658012
+      SF01a_strip60_14: -1013712009763706353
+      SF01a_strip60_50: 4399463270658410746
+      SF01a_strip60_11: 8576522344765356263
+      SF01a_strip60_34: 7727370504077504246
+      SF01a_strip60_37: 9194870583721862375
+      SF01a_strip60_21: 8597480425857653409
+      SF01a_strip60_31: 1926534249117381275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

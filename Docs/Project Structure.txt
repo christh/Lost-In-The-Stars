@@ -1,0 +1,23 @@
+Assets:
+	Docs: this folder!
+	Editor: Unity editor specific things, e.g. palette and custom editor scripts
+	EffectExamples: https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777#description
+	Plugins: Dotween thing
+	Prefabs: non UI prefabs
+	Resources: databases and things
+	Scenes: All scenes
+	Scripts: all scripts (broken down further below)
+	SFX: music and general sounds location
+	Starfield Skybox: Skybox... (TODO: probably should be moved)
+	Sprites: duh
+	TextMesh Pro: ... (TODO: should this be in the Asset folder??)
+	Tiles: tilemaps, etc.
+	UI: everything to do with menus and their prefabs (scripts live in scripts/Menus / scripts/Event)
+	
+Scripts:
+	Common: General classes - may or may not be monobehaviours
+	Events: 
+	Managers: Singleton managers etc.
+	Menus: Code to support UI assets
+	
+	

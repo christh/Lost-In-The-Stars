@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 486ef763f30389145aff5ca678009fc3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 2015 Cruiser Hollow
+  fontNames:
+  - 2015 Cruiser Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2bb18c26305bbc4fa7099a8e58208f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
