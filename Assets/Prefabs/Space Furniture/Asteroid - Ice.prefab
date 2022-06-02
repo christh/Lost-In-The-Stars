@@ -171,7 +171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AsteroidSprayer: {fileID: 6723873377753690866, guid: 9a0a317235f107a48b8a499201392f4f,
     type: 3}
-  SpawnCount: 3
+  SpawnCount: 2
 --- !u!60 &1868770841064979022
 PolygonCollider2D:
   m_ObjectHideFlags: 0

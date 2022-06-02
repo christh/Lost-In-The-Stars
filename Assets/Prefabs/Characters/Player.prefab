@@ -452,8 +452,8 @@ MonoBehaviour:
   RightThruster: {fileID: 3216832236534686163}
   LeftReverseThruster: {fileID: 3216832235889744849}
   RightReverseThruster: {fileID: 3216832236182551893}
-  baseThrust: 10
-  baseMaxThrust: 30
+  baseThrust: 13
+  baseMaxThrust: 40
   baseTorque: 20
   baseMaxTorque: 150
   afterburnerModifier: 1.5

@@ -140,7 +140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MineralSprayer: {fileID: 6723873377753690866, guid: 351b0d6f13c88244dac0be3d82bc4cbf,
     type: 3}
-  MineralCount: 1
+  MineralCount: 0
   Quality: 0.1
 --- !u!114 &1559885590742707508
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AsteroidSprayer: {fileID: 6723873377753690866, guid: 9a0a317235f107a48b8a499201392f4f,
     type: 3}
-  SpawnCount: 3
+  SpawnCount: 2
 --- !u!60 &6338646837961035494
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -23,6 +23,7 @@ namespace IR
         [SerializeField] string firstLevel = "Level 1";
 
         public bool LevelWinStateReached { get; set; }
+        public bool EasyMovement { get; set; }
 
         private List<GameObject> instantiatedSystemPrefabs;
         private string currentLevel;
@@ -50,7 +51,6 @@ namespace IR
 
         private int playerHealth;
         private int playerMaxHealth;
-
 
         bool levelLoadInProgress = false;
 

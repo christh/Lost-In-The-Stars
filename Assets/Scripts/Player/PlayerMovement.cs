@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace IR {
+namespace IR
+{
     public class PlayerMovement : MonoBehaviour
     {
         public ParticleSystem LeftThruster;
@@ -66,6 +67,97 @@ namespace IR {
             ThrustState = ThrustStates.Idle;
             TurnState = TurnStates.Idle;
 
+            if (GameManager.Instance.EasyMovement)
+            {
+                HandleEasySteering();
+            }
+            else
+            {
+                HandleProSteering();
+            }
+
+            StopAfterburner();
+
+            ManageThrusterParticles();
+
+            if (Input.GetKeyDown(KeyCode.M))
+            {
+                GameManager.Instance.EasyMovement = !GameManager.Instance.EasyMovement;
+            }
+        }
+
+        private void HandleEasySteering()
+        {
+            Vector3 newTarget = new Vector3(transform.position.x, transform.position.y);
+
+            if (Input.GetKey(KeyCode.A))
+            {
+                newTarget.x += 5;
+            }
+            else if (Input.GetKey(KeyCode.D))
+            {
+                newTarget.x -= 5;
+            }
+
+            if (Input.GetKey(KeyCode.S))
+            {
+                newTarget.y += 5;
+            }
+            else if (Input.GetKey(KeyCode.W))
+            {
+                newTarget.y -= 5;
+            }
+
+            if (newTarget == transform.position)
+            {
+                return;
+            }
+
+            Vector3 targetDelta = transform.position - newTarget;
+
+            float angleDifference = Vector3.Angle(transform.up, targetDelta);
+
+            // Axis of rotation to get from one vector to the other
+            Vector3 crossProduct = Vector3.Cross(transform.up, targetDelta);
+
+            var torqueToApply = angleDifference * crossProduct.z;
+
+            // Clamp torque
+            if (torqueToApply > maxTorque)
+            {
+                torqueToApply = torque;
+            }
+            else if (torqueToApply < -torque)
+            {
+                torqueToApply = -torque;
+            }
+
+            if (torqueToApply > 0 && playerBody.angularVelocity < maxTorque) //&& System.Math.Abs(angleDiff) > .05)
+            {
+                playerBody.AddTorque(torqueToApply);
+                TurnState = TurnStates.Left;
+            }
+            else if (torqueToApply < 0 && playerBody.angularVelocity > -maxTorque)
+            {
+                playerBody.AddTorque(torqueToApply);
+                TurnState = TurnStates.Right;
+            }
+
+            if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)
+                && playerBody.velocity.y < maxThrust * afterburnerModifier)
+            {
+                playerBody.AddForce(transform.up * thrust * afterburnerModifier);
+                ThrustState = ThrustStates.Afterburning;
+            }
+            else if (playerBody.velocity.y < maxThrust)
+            {
+                playerBody.AddForce(transform.up * thrust);
+                ThrustState = ThrustStates.Thrusting;
+            }
+        }
+
+        private void HandleProSteering()
+        {
             if (Input.GetKey(KeyCode.A) && playerBody.angularVelocity < maxTorque)
             {
                 playerBody.AddTorque(torque);
@@ -75,12 +167,6 @@ namespace IR {
             {
                 playerBody.AddTorque(-torque);
                 TurnState = TurnStates.Right;
-            }
-
-            if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.RightShift))
-            {
-                StopThruster(LeftThruster);
-                StopThruster(RightThruster);
             }
 
             if (Input.GetKey(KeyCode.W)
@@ -100,8 +186,15 @@ namespace IR {
                 playerBody.AddForce(transform.up * -thrust / 2);
                 ThrustState = ThrustStates.Reversing;
             }
+        }
 
-            ManageThrusterParticles();
+        private void StopAfterburner()
+        {
+            if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.RightShift))
+            {
+                StopThruster(LeftThruster);
+                StopThruster(RightThruster);
+            }
         }
 
         private void ManageThrusterParticles()
