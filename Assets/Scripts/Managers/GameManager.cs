@@ -230,9 +230,16 @@ namespace IR
 
             LevelWinStateReached = false;
             ResetUpgrades();
+            ResetMinerals();
             IncrementMaxUpgradeLevel();
             UnloadLevel(currentLevel);
             LoadLevel(level);
+        }
+
+        private void ResetMinerals()
+        {
+            mineralCount = 0;
+            OnGameUIChanged.Invoke();
         }
 
         private void Update()
