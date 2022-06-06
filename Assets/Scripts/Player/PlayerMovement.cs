@@ -48,6 +48,11 @@ namespace IR
 
         void FixedUpdate()
         {
+            if (gameObject.layer.Equals(Constants.Layers.DeadThings))
+            {
+                return;
+            }
+            
             switch (GameManager.Instance.GetShipLevel())
             {
                 case 1:
@@ -79,11 +84,6 @@ namespace IR
             StopAfterburner();
 
             ManageThrusterParticles();
-
-            if (Input.GetKeyDown(KeyCode.M))
-            {
-                GameManager.Instance.EasyMovement = !GameManager.Instance.EasyMovement;
-            }
         }
 
         private void HandleEasySteering()

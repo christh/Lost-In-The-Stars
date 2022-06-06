@@ -8,6 +8,7 @@ namespace IR.Factories
     {
         public static void SpawnExplosion(GameObject explosion, AudioClip audio, Vector2 position)
         {
+            
             if (explosion != null)
             {
                 var obj = Instantiate(explosion, position, Quaternion.identity);

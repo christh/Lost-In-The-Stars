@@ -3,4 +3,5 @@
 2022-05-29 Health (1h), Upgrade systems (1h), Boss (1h), end level trap (1h), enemy targeting (1h), player death (1h), level progression (1h)
 2022-05-30 Music (2h), levels (3h), Win screen and final boss (2h), cleanup (3h)
 2022-06-01 Add modern controls and tweak player thrust performance
-2022-06-02 Bugfix: non-gold (and ethereal ice) asteroids should not drop minerals
+2022-06-02 Bugfix: non-gold (and ethereal ice) asteroids should not drop minerals, bugfix #2: fix position of two checkpoints in level 3, add music volume control
+2022-06-06 Bugfix: prevent player shooting + movement while dead, add self destruct option (F1) to unstick player

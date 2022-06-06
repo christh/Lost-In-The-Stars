@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.Audio;
 
 namespace IR
 {
@@ -11,6 +12,8 @@ namespace IR
         public static MusicManager instance;
         public string currentTrack = "";
         [SerializeField] private Sound currentClip;
+        [SerializeField] private AudioMixerGroup musicAudioSource;
+        public AudioSource sfxAudioSource { get; set; }
 
         private void Start()
         {
@@ -20,6 +23,7 @@ namespace IR
                 sound.source.clip = sound.clip;
                 sound.source.volume = sound.volume;
                 sound.source.pitch = sound.pitch;
+                sound.source.outputAudioMixerGroup = musicAudioSource;
                 sound.loop = true;
             }
 

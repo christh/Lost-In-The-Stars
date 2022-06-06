@@ -27,12 +27,6 @@ namespace IR
         private Vector2 mousePosition = new Vector2();
         private Vector3 point = new Vector3();
 
-
-        internal void Move(ThrustStates thrusting)
-        {
-            throw new NotImplementedException();
-        }
-
         private float primaryTimer = 0;
         private float secondaryTimer = 0;
 
@@ -50,6 +44,26 @@ namespace IR
             primaryTimer += Time.deltaTime;
             secondaryTimer += Time.deltaTime;
 
+            if (Input.GetKeyDown(KeyCode.M))
+            {
+                GameManager.Instance.EasyMovement = !GameManager.Instance.EasyMovement;
+            }
+
+            if (Input.GetKeyDown(KeyCode.F1))
+            {
+                GetComponent<IExplodeable>()?.Explode();
+            }
+
+            HandleShooting();
+        }
+
+        private void HandleShooting()
+        {
+            if (gameObject.layer.Equals(Constants.Layers.DeadThings))
+            {
+                return;
+            }
+
             if ((Input.GetKey(KeyCode.LeftControl) || Input.GetMouseButton(0)) && primaryTimer >= primaryCoolDown && !EventSystem.current.IsPointerOverGameObject())
             {
                 primaryTimer = 0;
@@ -63,6 +77,7 @@ namespace IR
                 LaunchToPoint(direction);
             }
         }
+
         void Launch()
         {
             if (GameManager.Instance.GetGunLevel() > 0)
@@ -126,17 +141,6 @@ namespace IR
                 attackRotation = Utils.AddInaccuracyToRotation(attackRotation, 0.07f);
                 SpawnAndLaunch(Turret, attackRotation);
             }
-        }
-
-
-        internal void Move(TurnStates right)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal void Shoot()
-        {
-            throw new NotImplementedException();
         }
 
         public void Damage(float damageValue)
